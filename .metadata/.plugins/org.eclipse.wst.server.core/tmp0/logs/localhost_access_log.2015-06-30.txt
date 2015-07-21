@@ -1,0 +1,16 @@
+127.0.0.1 - - [30/Jun/2015:10:32:39 -0500] "GET / HTTP/1.1" 404 961
+0:0:0:0:0:0:0:1 - - [30/Jun/2015:10:32:40 -0500] "GET /litos/Bienvenido.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/Jun/2015:10:32:40 -0500] "GET /litos/login.jsp HTTP/1.1" 200 995
+0:0:0:0:0:0:0:1 - - [30/Jun/2015:10:32:40 -0500] "GET /litos/hamburguesa7.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [30/Jun/2015:10:44:47 -0500] "GET / HTTP/1.1" 404 961
+0:0:0:0:0:0:0:1 - - [30/Jun/2015:10:44:48 -0500] "GET /litos/Bienvenido.jsp HTTP/1.1" 200 31451
+0:0:0:0:0:0:0:1 - - [30/Jun/2015:10:44:48 -0500] "GET /litos/producto.jpg HTTP/1.1" 404 997
+0:0:0:0:0:0:0:1 - - [30/Jun/2015:10:47:14 -0500] "GET /litos/Bienvenido.jsp HTTP/1.1" 200 31455
+0:0:0:0:0:0:0:1 - - [30/Jun/2015:10:49:35 -0500] "GET /litos/Bienvenido.jsp HTTP/1.1" 200 31477
+0:0:0:0:0:0:0:1 - - [30/Jun/2015:10:56:47 -0500] "GET /litos/producto_editar.jsp HTTP/1.1" 200 31157
+127.0.0.1 - - [30/Jun/2015:11:02:04 -0500] "GET / HTTP/1.1" 404 961
+0:0:0:0:0:0:0:1 - - [30/Jun/2015:11:02:04 -0500] "GET /litos/Producto HTTP/1.1" 500 1452
+0:0:0:0:0:0:0:1 - - [30/Jun/2015:11:09:09 -0500] "GET /litos/Bienvenido.jsp HTTP/1.1" 200 31477
+0:0:0:0:0:0:0:1 - - [30/Jun/2015:11:09:11 -0500] "GET /litos/Producto?accion=agregar HTTP/1.1" 404 1025
+0:0:0:0:0:0:0:1 - - [30/Jun/2015:11:22:42 -0500] "GET /litos/producto_agregar.jsp HTTP/1.1" 200 34488
+0:0:0:0:0:0:0:1 - - [30/Jun/2015:11:22:42 -0500] "GET /images/fieldbg.gif HTTP/1.1" 404 997
